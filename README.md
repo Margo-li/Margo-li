@@ -1,4 +1,4 @@
-<h1 align="center">Привет! Я Margo 👋</h1>
+<h1 align="center">Hi, there! I'm Margo👋</h1>
 
 <p align="center">
   <em>From education to data. I turn numbers into insights that drive decisions.</em>
