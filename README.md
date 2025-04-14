@@ -3,7 +3,7 @@
 <p align="center">
   <em>From education to data. I turn numbers into insights that drive decisions.</em>
 </p>
-
+---
 ## 💼 About Me
 
 🎓 I spent over 10 years building and optimizing education processes — managing my own learning studio, analyzing student performance, and improving outcomes.
