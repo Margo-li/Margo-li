@@ -27,8 +27,7 @@
   <img src="workflow.gif" width="500" alt="Analytics workflow">
 </p>
 
-📬 I'm open to collaboration and new opportunities in data analytics. Let's build data-informed products together!
-🤝 Let's Connect
+📬 I'm open to collaboration and new opportunities in data analytics. 🤝 Let's Connect
 
 <p align="center">
   <a href="https://t.me/margolitv" target="_blank">
