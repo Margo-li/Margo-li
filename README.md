@@ -1,16 +1,18 @@
-## Hi there 👋
+## 👋 Hi there, I'm Margo
 
-<!--
-**Margo-li/Margo-li** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a data analyst with a background in education and 10+ years of experience in optimizing learning processes. Recently, I transitioned into analytics, where I combine domain expertise with data to uncover insights and improve product metrics.
 
-Here are some ideas to get you started:
+## 🔧 Tools & Skills
+- SQL (PostgreSQL, ClickHouse)
+- Python (pandas, matplotlib)
+- Google Sheets, Yandex DataLens
+- A/B testing, business metrics, user funnel analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Interests
+- Product analytics
+- User behavior and retention
+- EdTech and data-driven learning
+
+---
+
+📬 I'm open to collaboration and new opportunities in data analytics. Let's build data-informed products together!
