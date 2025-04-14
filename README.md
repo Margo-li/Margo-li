@@ -28,8 +28,6 @@
 </p>
 
 📬 I'm open to collaboration and new opportunities in data analytics. Let's build data-informed products together!
----
-
 🤝 Let's Connect
 
 <p align="center">
