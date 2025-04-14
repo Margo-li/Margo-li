@@ -5,8 +5,11 @@
 </p>
 
 ## 💼 About Me
+
 🎓 I spent over 10 years building and optimizing education processes — managing my own learning studio, analyzing student performance, and improving outcomes.
+
 📈 The moment I automated our student database and built my first funnel in Google Sheets, I knew: **data** is what drives my curiosity.
+
 💡 Today I apply that same mindset to product and user analytics. I dive deep into numbers to understand what works, what doesn't — and why.
 
 ---
