@@ -26,20 +26,6 @@
 <p align="center">
   <img src="workflow.gif" width="500" alt="Analytics workflow">
 </p>
-
----
-
-## 🔧 Tools & Skills
-- SQL (PostgreSQL, ClickHouse)
-- Python (pandas, matplotlib)
-- Google Sheets, Yandex DataLens
-- A/B testing, business metrics, user funnel analysis
-
-## 📊 Interests
-- Product analytics
-- User behavior and retention
-- EdTech and data-driven learning
-
 ---
 
 📬 I'm open to collaboration and new opportunities in data analytics. Let's build data-informed products together!
