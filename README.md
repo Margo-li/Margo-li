@@ -29,19 +29,6 @@
 ---
 
 📬 I'm open to collaboration and new opportunities in data analytics. Let's build data-informed products together!
----
-
-## 🤝 Let's Connect
-
-<p align="center">
-  <a href="https://t.me/твоя_ссылка" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-@@margolitv-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
-  &nbsp;
-  <a href="mailto:litvmargooo@yandex.ru">
-    <img src="https://img.shields.io/badge/Email-Send_Message-green?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
-</p>
 
 ---
 
