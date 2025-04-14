@@ -43,3 +43,9 @@
 ---
 
 📬 I'm open to collaboration and new opportunities in data analytics. Let's build data-informed products together!
+
+---
+
+<p align="center">
+  <em>“Numbers never lie — but they rarely speak first. That’s what I’m here for.”</em>
+</p>
